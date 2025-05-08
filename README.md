@@ -35,6 +35,12 @@ At line:1 char:1
 npx pnpm install
 ```
 
+First, you have to build the `react-component` project:
+
+```bash
+pnpm run build
+```
+
 Now you can run the project:
 
 ```bash
